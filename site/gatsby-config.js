@@ -3,5 +3,6 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`, // Needed for dynamic images
+    'gatsby-theme-shared-nav',
   ],
 };
